@@ -29,10 +29,7 @@ Sou um estudante de graduação na faculdade Uniasselvi🎓. ***Eu sou um Engenh
 ### 🚀Estatísticas rápidas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurdeAndradee&show_icons=true&theme=dark)
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurdeAndradee&layout=compact&theme=dark)
 
 
 ### 📬 Encontre-me
