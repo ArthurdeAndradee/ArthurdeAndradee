@@ -1,7 +1,7 @@
 <h1 align="center">  Olá! Sou Arthur de Andrade Amaral🙂 </h1>
 
 ### Um pouco sobre mim... <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50"> 
-Eu sou um estudante de graduação na faculdade Uniasselvi🎓. ***Eu sou um Engenheiro de software*** 🖥️ apaixonado por aprender e trabalhar com novas tecnologias!
+Sou um estudante de graduação na faculdade Uniasselvi🎓. ***Eu sou um Engenheiro de software*** 🖥️ apaixonado por aprender e trabalhar com novas tecnologias!
  
 
 
