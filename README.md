@@ -7,7 +7,7 @@ Sou um estudante de graduação na faculdade Uniasselvi🎓. ***Eu sou um Engenh
 
 
 <h3> ⚡️ Alguns Fatos Rápidos</h3>
-<p>-🍃Atualmente estou me aprofundando em jarvascript </p>
+<p>-🍃Atualmente estou me aprofundando em Node.js </p>
 <p>-👨🏻‍💻Gosto de produzir novos projetos e realizar desafios </p>
 <p>-📈Me dou bem trabalhando em equipe</p>
 <p>-🍿Assisto muitos filmes mensalmente</p>
