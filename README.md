@@ -1,40 +1,72 @@
-<h1 align="center">  Olá! Sou Arthur de Andrade Amaral🙂 </h1>
-
-### Um pouco sobre mim... <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50"> 
-Sou um estudante de graduação na faculdade Uniasselvi🎓. ***Eu sou um Engenheiro de software*** 🖥️ apaixonado por aprender e trabalhar com novas tecnologias!
- 
 
 
+<h1 align="center">
+  Hi there, I'm Arthur Andrade
+  <img src="./assets/waving-joy.gif" width="45" alt="Waving"/>
+</h1>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
-<h3> ⚡️ Alguns Fatos Rápidos</h3>
-<p>-🍃Atualmente estou me aprofundando em Node.js </p>
-<p>-👨🏻‍💻Gosto de produzir novos projetos e realizar desafios </p>
-<p>-📈Me dou bem trabalhando em equipe</p>
-<p>-🍿Assisto muitos filmes mensalmente</p>
-<p>-👾Jogo videogame no meu tempo livre</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-andrade-amaral/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:arthurdedandrade@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
+---
 
-### 🖥️ Meu DevSetup
- <img src="https://img.shields.io/badge/MacOs-555555.svg?&style=flat-square&logo=apple&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white">  <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+<h2>About Me</h2>
 
- ### ⚙️Algumas ferramentas e tecnologias que eu uso
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+I'm a Brazilian **Software Engineer and Full Stack Developer** with professional experience building web applications, integrating APIs, and developing accessible digital solutions.
 
-### 🚀Estatísticas rápidas
+My main technologies include **TypeScript, JavaScript, and Python**, with a focus on writing clean, maintainable code and building reliable software.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurdeAndradee&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurdeAndradee&layout=compact&theme=dark)
+- Bachelor's degree in **Software Engineering**
+- Currently pursuing a postgraduate specialization in **Full Stack Development**
+- Professional experience with frontend and backend development
+- Interested in software architecture, web accessibility, and artificial intelligence
+- Continuously learning and improving my development skills
 
+---
 
-### 📬 Encontre-me
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/arthur-andrade-amaral/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:arthurdedandrade@gmail.com)
+<h2>Tech Stack</h2>
 
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css" alt="Programming languages"/>
+</p>
+
+**Frameworks & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django" alt="Frameworks and technologies"/>
+</p>
+
+**Databases & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,vscode" alt="Databases and development tools"/>
+</p>
+
+---
+
+<h2>Areas of Interest</h2>
+
+- Full Stack Web Development
+- Backend Development & API Design
+- Software Architecture & Best Practices
+- Web Accessibility
+- Artificial Intelligence & Machine Learning
+
+---
+
+<h2>Connect With Me</h2>
+
+I'm always open to connecting with other developers, sharing knowledge, and exploring new opportunities.
+
+- **LinkedIn:** [Arthur Andrade](https://www.linkedin.com/in/arthur-andrade-amaral/)
+- **Email:** [arthurdedandrade@gmail.com](mailto:arthurdedandrade@gmail.com)
 
