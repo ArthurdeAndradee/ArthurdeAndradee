@@ -2,10 +2,7 @@
 
 
 <h1 align="center">
-  Hi there, I'm Arthur Andrade
-  <kbd>
-    <img src="./waving-joy.gif" width="90" alt="Waving GIF"/>
-  </kbd>
+  Hi there, I'm Arthur Andrade👋
 </h1>
 
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
