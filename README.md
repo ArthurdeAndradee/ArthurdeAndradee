@@ -2,9 +2,11 @@
 
 <h1 align="center">
   Hi there, I'm Arthur Andrade
-  <img src="./assets/waving-joy.gif" width="45" alt="Waving"/>
+  <img src="./waving-joy.gif" width="45" alt="Waving"/>
 </h1>
+
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arthur-andrade-amaral/">
